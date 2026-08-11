@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_24_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　エクセレント多度【地域密着型特定施設入居者生活介護（有料老人ホーム）】三重県桑名市多度町大字香取４８３番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2490100183-00&ServiceCd=361&Type=search", "url2": "http://www.fukujima.jp" }, "geometry": { "type": "Point", "coordinates": [ 136.652241164170817, 35.130140457634489 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアタウン九華【地域密着型特定施設入居者生活介護（有料老人ホーム）】三重県桑名市本町３９", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2490100498-00&ServiceCd=361&Type=search", "url2": "http://hc-support.com" }, "geometry": { "type": "Point", "coordinates": [ 136.695433, 35.0662399 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　みっかいち【地域密着型特定施設入居者生活介護（有料老人ホーム）】鈴鹿市三日市3丁目17－5", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2490300148-00&ServiceCd=361&Type=search", "url2": "http://www.welfare‐mie.jp" }, "geometry": { "type": "Point", "coordinates": [ 136.556271899999956, 34.8755767 ] } },
+{ "type": "Feature", "properties": { "内容": "わかば【地域密着型特定施設入居者生活介護（有料老人ホーム）】三重県志摩市志摩町布施田１６７５－１", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2492900028-00&ServiceCd=361&Type=search", "url2": "http://www.care-resort.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 136.8235608, 34.255374 ] } }
+]
+}

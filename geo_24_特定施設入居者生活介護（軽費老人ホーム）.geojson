@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "geo_24_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "しおりの里　ケアハウス【特定施設入居者生活介護（軽費老人ホーム）】三重県津市野田2033番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2470502168-00&ServiceCd=332&Type=search", "url2": "http://www.pmc.or.jp/ymcg/shiori/" }, "geometry": { "type": "Point", "coordinates": [ 136.462589799999932, 34.7093463 ] } },
+{ "type": "Feature", "properties": { "内容": "地域総合ケアセンターケアハウスシルバーケア豊壽園【特定施設入居者生活介護（軽費老人ホーム）】三重県津市高茶屋小森上野町字野田737番地", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2470500246-00&ServiceCd=332&Type=search", "url2": "http://www.sensin.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 136.494055475596639, 34.672501906607614 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスかざはや苑【特定施設入居者生活介護（軽費老人ホーム）】三重県津市戸木町4170-2", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2470600327-00&ServiceCd=332&Type=search", "url2": "http://seiju-kai.or.jp/kazahayaen/index.shtml" }, "geometry": { "type": "Point", "coordinates": [ 136.450280091401737, 34.684873011130655 ] } },
+{ "type": "Feature", "properties": { "内容": "高田ケアハウス【特定施設入居者生活介護（軽費老人ホーム）】三重県津市一身田町２７７", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2470501434-00&ServiceCd=332&Type=search", "url2": "http://www.takada-fukushi.jp/carehouse" }, "geometry": { "type": "Point", "coordinates": [ 136.507551299999932, 34.7610084 ] } },
+{ "type": "Feature", "properties": { "内容": "介護利用型ケアハウス賀集楽【特定施設入居者生活介護（軽費老人ホーム）】三重県伊勢市宇治浦田三丁目23番15号", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2470800943-00&ServiceCd=332&Type=search", "url2": "http://www.kashuraku.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 136.715085400000021, 34.4686226 ] } },
+{ "type": "Feature", "properties": { "内容": "若葉さわやか苑【特定施設入居者生活介護（軽費老人ホーム）】三重県松阪市若葉町７７－７", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2470701489-00&ServiceCd=332&Type=search", "url2": "http://www.sawayaka-well.jp/" }, "geometry": { "type": "Point", "coordinates": [ 136.545074399999976, 34.5796689 ] } },
+{ "type": "Feature", "properties": { "内容": "第２若葉さわやか苑【特定施設入居者生活介護（軽費老人ホーム）】三重県松阪市若葉町77番地7", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2470701752-00&ServiceCd=332&Type=search", "url2": "http://www.sawayaka-well.jp/w2-index.html" }, "geometry": { "type": "Point", "coordinates": [ 136.545541104368567, 34.57949223068394 ] } }
+]
+}

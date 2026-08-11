@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_24_介護医療院",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "第二岩崎病院【介護医療院】三重県津市一身田町３８７番地", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=24B0500023-00&ServiceCd=550&Type=search", "url2": "http://www.iwasaki-hosp.or.jp/newpage15.html" }, "geometry": { "type": "Point", "coordinates": [ 136.507808899999986, 34.758898500000043 ] } },
+{ "type": "Feature", "properties": { "内容": "倉本病院介護医療院【介護医療院】津市下弁財町津興3040番地", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=24B0500031-00&ServiceCd=550&Type=search", "url2": "http://www.kuramotohospital.net/" }, "geometry": { "type": "Point", "coordinates": [ 136.510732600000011, 34.7047259 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人十愛会　幸和病院　介護医療院【介護医療院】三重県津市一身田町767", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=24B0500015-00&ServiceCd=550&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 136.506024799999977, 34.7615284 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人　全心会　伊勢ひかり病院介護医療院【介護医療院】三重県伊勢市御薗町高向８１０番地1伊勢ひかり病院　1階", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=24B0800019-00&ServiceCd=550&Type=search", "url2": "https://ise-hikari.com" }, "geometry": { "type": "Point", "coordinates": [ 136.698439396601685, 34.500334525094303 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院ホリエ【介護医療院】三重県松阪市鎌田町234の１", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=24B0700011-00&ServiceCd=550&Type=search", "url2": "http://www.kashouen.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 136.5359999, 34.5817816 ] } },
+{ "type": "Feature", "properties": { "内容": "長島中央病院介護医療院【介護医療院】三重県桑名市長島町福吉271番地", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=24B0100014-00&ServiceCd=550&Type=search", "url2": "https://www.sato-group.jp/" }, "geometry": { "type": "Point", "coordinates": [ 136.715554200000014, 35.0573161 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人寺田病院　介護医療院【介護医療院】夏見３２６０番地１", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=24B1300019-00&ServiceCd=550&Type=search", "url2": "http://www.terada-hp.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 136.106054969975247, 34.619819495648045 ] } },
+{ "type": "Feature", "properties": { "内容": "第一病院介護医療院【介護医療院】三重県北牟婁郡紀北町上里225番地8", "url": "https://www.kaigokensaku.mhlw.go.jp/24/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=24B3000013-00&ServiceCd=550&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 136.2343243, 34.1434476 ] } }
+]
+}
