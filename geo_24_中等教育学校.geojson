@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_24_中等教育学校",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "24207", "P29_002": "D224310065016", "P29_003": "16003", "P29_004": "鈴鹿中等教育学校", "P29_005": "三重県鈴鹿市庄野町1230", "P29_006": "4", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 136.532472286193695, 34.882012408612056 ] } }
+]
+}
